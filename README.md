@@ -1,9 +1,9 @@
 # Analise-e-Pre-Processamento-de-Dados-de-Credito
 # Sumário
 * [Descrição do projeto](#descrição-do-projeto)
-* [Project description]
-* [Linguagens e tecnologias usadas]
-* [Bibliotecas usadas]
+* [Project description](#project-description)
+* [Linguagens e tecnologias usadas](#linguagens-e-tecnologias-usadas)
+* [Bibliotecas usadas](#bibliotecas-usadas)
 
 # Descrição do projeto
 Este repositório apresenta um MVP(Minimum Viable Product) elaborado como avaliação para a Sprint I do curso de pós-Graduação em Ciência de Dados e Analytics da Pontifícia Universidade Católica do Rio de Janeiro (PUC-RIO).
