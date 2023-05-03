@@ -43,3 +43,5 @@ The development of the analysis and preprocessing is presented in a simple and c
 # Análise dos dados
 * Primeiras linhas do dataset
 <img src="Captura de Tela (2).png">
+
+<img src="Captura de Tela (3).png">
