@@ -4,7 +4,9 @@
 * [Project description](#project-description)
 * [Linguagens e tecnologias usadas](#linguagens-e-tecnologias-usadas)
 * [Bibliotecas usadas](#bibliotecas-usadas)
-* [Análise dos dados] (#etapas-do-codigo)
+* [Análise dos dados] (#analise-dos-codigo)
+* [Visualização] (#visualizacao)
+* [Conclusão] (#conclusao)
 
 # Descrição do projeto
 Este repositório apresenta um MVP(Minimum Viable Product) elaborado como avaliação para a Sprint I do curso de pós-Graduação em Ciência de Dados e Analytics da Pontifícia Universidade Católica do Rio de Janeiro (PUC-RIO).
@@ -52,4 +54,24 @@ Aqui vemos que todos os atributos são do tipo 'object', indicando que possivelm
 Por tanto, também fizemos o devido tratamento desses dados convertendo as variáveis categóricas e numéricas de acordo com seus devidos tipos.
 <img src="Captura de Tela (1).png">
 
-# Vizualização 
+# Visualização 
+* Ativos problemáticos por Porte
+Os ativos probemáticos aparecem com maior concentração na faixa de renda de Mais de 1 a 2 salários mínimos
+<img src="porte.png">
+
+* Distribução dos Ativos problemáticos por Modalidade ao longo do tempo
+O crédito habitacional aparece como a modalidade com maior peso nos ativos problemáticos durante todo o período analisado. 
+<img src="tempo_modalidade.png">
+
+* Outras vizualizações interessantes
+<img src="estado.png">
+
+<img src="ocupacao.png">
+
+<img src="indexador.png">
+
+# Conclusão
+A análise do setor bancário e de crédito é frequentemente dificultada pela confidencialidade dos dados relevantes, o que muitas vezes leva à construção de modelos com amostras muito antigas ou com variáveis desidentificadas. Optamos por analisar um conjunto de dados reais de operações de crédito criado pelo Banco Central do Brasil, pois acreditamos que o acesso a dados atualizados e bem documentados é valioso. Devido ao grande volume de dados, concentramos nossa análise no tipo de cliente Pessoa Física (PF) e no Segmento (SR) do tipo S1, que corresponde ao segmento bancário de maior porte. Essa abordagem foi suficiente para construir nossa análise e confirmar nossas hipóteses iniciais. Em resumo, confirmanmos nossa hipótese de que, com base nos dados do Banco Central, a maior parte dos ativos problemáticos em 2022 era composta por indivíduos com renda entre 1 e 2 salários mínimos, com a maior incidência na modalidade de crédito habitacional. Isso pode ser um efeito da pandemia e do aumento da inflação do período, que afetou o mercado imobiliário. Também observamos um padrão regional e sazonal nas ocorrências de ativos problemáticos, com os índices mais altos no último trimestre do ano, especialmente em dezembro. Além disso, os ativos problemáticos estão concentrados na Região Sudeste, principalmente nos Estados de São Paulo, Rio de Janeiro e Minas Gerais, que são considerados alguns dos mais ricos do país e também os mais populosos. 
+
+
+
