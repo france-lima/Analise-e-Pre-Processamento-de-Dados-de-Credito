@@ -1,9 +1,10 @@
-# Análise e Pré-Processamento de Dados de Credito
+# Análise e Pré-Processamento de Dados de Crédito
 # Sumário
 * [Descrição do projeto](#descrição-do-projeto)
 * [Project description](#project-description)
 * [Linguagens e tecnologias usadas](#linguagens-e-tecnologias-usadas)
 * [Bibliotecas usadas](#bibliotecas-usadas)
+* [Análise dos dados] (#etapas-do-codigo)
 
 # Descrição do projeto
 Este repositório apresenta um MVP(Minimum Viable Product) elaborado como avaliação para a Sprint I do curso de pós-Graduação em Ciência de Dados e Analytics da Pontifícia Universidade Católica do Rio de Janeiro (PUC-RIO).
@@ -38,3 +39,5 @@ The development of the analysis and preprocessing is presented in a simple and c
 * Missingno
 * Gdown
 * Zipfile
+
+# Análise dos dados
