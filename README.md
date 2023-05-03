@@ -4,9 +4,9 @@
 * [Project description](#project-description)
 * [Linguagens e tecnologias usadas](#linguagens-e-tecnologias-usadas)
 * [Bibliotecas usadas](#bibliotecas-usadas)
-* [Análise dos dados] (#analise-dos-codigo)
-* [Visualização] (#visualizacao)
-* [Conclusão] (#conclusao)
+* [Análise dos dados] (#analise-dos-dados)
+* [Visualização] (#visualização)
+* [Conclusão] (#conclusão)
 
 # Descrição do projeto
 Este repositório apresenta um MVP(Minimum Viable Product) elaborado como avaliação para a Sprint I do curso de pós-Graduação em Ciência de Dados e Analytics da Pontifícia Universidade Católica do Rio de Janeiro (PUC-RIO).
