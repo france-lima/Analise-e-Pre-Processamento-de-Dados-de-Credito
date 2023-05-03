@@ -42,8 +42,14 @@ The development of the analysis and preprocessing is presented in a simple and c
 
 # Análise dos dados
 * Primeiras linhas do dataset
- Nas primeiras linhas notamos algumas colunas com valores faltantes e outras que consideramos não possuírem valor direto para o objetivo de nossa análise. Nesse sentido, na etapa de pré-processamento, iremos tratar devidamente os valores faltantes e reduzir a dimensionalidade do dataframe excluindo as colunas desnecessárias para o nosso projeto. 
+Nas primeiras linhas notamos algumas colunas com valores faltantes e outras que consideramos não possuírem valor direto para o objetivo de nossa análise. Nesse sentido, na etapa de pré-processamento, tratamos devidamente os valores faltantes e reduzir a dimensionalidade do dataframe excluindo as colunas desnecessárias para o nosso projeto. 
 <img src="Captura de Tela (2).png">
 
 <img src="Captura de Tela (3).png">
 
+* Informações dos atributos do dataset
+Aqui vemos que todos os atributos são do tipo 'object', indicando que possivelmente os dados foram armazenados como 'string'. Isso dificulta a realização de análises e operações matemáticas de dados das variáveis numéricas, como a realização de resumos estatíticos que nos permitam estabelecer informações importantes, como média, mediana e desvio parão. 
+Por tanto, também fizemos o devido tratamento desses dados convertendo as variáveis categóricas e numéricas de acordo com seus devidos tipos.
+<img src="Captura de Tela (1).png">
+
+# Vizualização 
