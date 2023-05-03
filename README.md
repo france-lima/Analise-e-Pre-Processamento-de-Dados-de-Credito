@@ -41,3 +41,5 @@ The development of the analysis and preprocessing is presented in a simple and c
 * Zipfile
 
 # Análise dos dados
+* Primeiras linhas do dataset
+<img src="Captura de Tela (2).png">
