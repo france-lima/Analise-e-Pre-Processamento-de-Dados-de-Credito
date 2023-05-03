@@ -42,6 +42,8 @@ The development of the analysis and preprocessing is presented in a simple and c
 
 # Análise dos dados
 * Primeiras linhas do dataset
+ Nas primeiras linhas notamos algumas colunas com valores faltantes e outras que consideramos não possuírem valor direto para o objetivo de nossa análise. Nesse sentido, na etapa de pré-processamento, iremos tratar devidamente os valores faltantes e reduzir a dimensionalidade do dataframe excluindo as colunas desnecessárias para o nosso projeto. 
 <img src="Captura de Tela (2).png">
 
 <img src="Captura de Tela (3).png">
+
